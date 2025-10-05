@@ -1,2 +1,7 @@
 # ankita_tambe120603
-Myself ankita.Currently I am pursuing MCA
+Hii there Iam Ankita
+MCA Student
+
+About Me
+Web Developer
+Software Developer
